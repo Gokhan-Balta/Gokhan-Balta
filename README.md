@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokhan Balta</h1>
 <h3 align="center">I am a Statistics student with strong learning skills, passionate about Data Science, Machine Learning and Artificial Intelligence at Hacettepe University in Turkey.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd1ejJwc3I5Mnp5a3hvb2tsbThodTk4NzR1eGY2aGV5Njl4ajZlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDd1ejJwc3I5Mnp5a3hvb2tsbThodTk4NzR1eGY2aGV5Njl4ajZlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"
 
 
 - 💬 Ask me about **Statistical Data Analysis, Python and Machine Learning**
