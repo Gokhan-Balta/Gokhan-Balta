@@ -18,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokhan-balta&show_icons=true&locale=en&layout=compact" alt="gokhan-balta" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gokhan-balta&show_icons=true&locale=en" alt="gokhan-balta" /></p>
