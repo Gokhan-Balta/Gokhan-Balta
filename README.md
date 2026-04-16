@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokhan Balta</h1>
-<h3 align="center">Statistics Student | Data Analyst | Machine Learning Enthusiast</h3>
+<h3 align="center"> Statistician | Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Python+%7C+SQL+%7C+Statistics;Always+Learning+New+Technologies"/>
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Statistics student at **Hacettepe University**
+- 🎓 Statistics graduate at **Hacettepe University**
 - 📊 Passionate about **Data Science**
 - 🤖 Interested in **Machine Learning & AI**
 - 📈 Focused on Analytics & Prediction
@@ -99,14 +99,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📅 Contribution Calendar
-
-<p align="center">
-<img src="https://ghchart.rshah.org/409ba5/Gokhan-Balta" width="90%"/>
-</p>
 
 ---
 
