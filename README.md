@@ -75,7 +75,7 @@
 
 <table align="center" width="90%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top" align="center">
 
 ## ⚒️ Languages & Tools
 
@@ -84,16 +84,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gokhan-Balta&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 </td>
